@@ -5,4 +5,4 @@ Estudo de uma tela de logIn: [Video](https://www.youtube.com/watch?v=Rc_GJpRU6VI
 
 ## Getting Started
 
-Exercio da cadeira de aplicação Mobile com uso de Flutter do curdo TDS - IFPR - 2sem-2021
+Exercício da cadeira de aplicação Mobile com uso de Flutter do curso TDS - IFPR - 2sem-2021
